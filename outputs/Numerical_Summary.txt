@@ -1,0 +1,27 @@
+USArrests Numerical Summary (Part III-B)
+======================================
+
+Sample mean vector:
+  Murder  Assault UrbanPop     Rape 
+   7.788  170.760   65.540   21.232 
+
+Standard deviations:
+   Murder   Assault  UrbanPop      Rape 
+ 4.355510 83.337661 14.474763  9.366385 
+
+Sample covariance matrix S:
+             Murder   Assault   UrbanPop      Rape
+Murder    18.970465  291.0624   4.386204  22.99141
+Assault  291.062367 6945.1657 312.275102 519.26906
+UrbanPop   4.386204  312.2751 209.518776  55.76808
+Rape      22.991412  519.2691  55.768082  87.72916
+
+Sample correlation matrix R:
+             Murder   Assault   UrbanPop      Rape
+Murder   1.00000000 0.8018733 0.06957262 0.5635788
+Assault  0.80187331 1.0000000 0.25887170 0.6652412
+UrbanPop 0.06957262 0.2588717 1.00000000 0.4113412
+Rape     0.56357883 0.6652412 0.41134124 1.0000000
+
+Trace of covariance matrix tr(S):
+[1] 7261.384
