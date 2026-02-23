@@ -1,0 +1,1 @@
+My R script runs without any errors on my local computer. The output files are provided here for your reference. If needed, you are welcome to review them. If you encounter any issues downloading the files, please feel free to email me at any time. I have set the files to public access, so there should not be any problems accessing them.
